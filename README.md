@@ -8,5 +8,9 @@ Paulina Aldaco Romero
 ## MATRICULA
 A01635325
 
+## EQUIPO
+Javier Humberto Gonzalez Garza - A01253836
+Juan Pablo Montoya Estévez - A01251887
+
 ## LISTADO DE EJERCICIOS
 * Lista de los ejercicios contenidos en el repositorio
